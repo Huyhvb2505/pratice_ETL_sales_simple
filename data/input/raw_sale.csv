@@ -1,0 +1,6 @@
+date,product,category,quantity,unit_price,customer_email
+2024-01-15,Laptop,Electronics,2,15000000,an@email.com
+2024-01-15,Mouse,Electronics,abc,250000,  BINH@EMAIL.COM
+2024-01-16,Keyboard,,3,450000,cuong@invalid
+2024-01-16,Monitor,Electronics,1,,dung@email.com
+2024-01-17,Laptop,Electronics,1,15000000,em@email.com

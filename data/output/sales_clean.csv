@@ -1,0 +1,3 @@
+date,product,category,quantity,unit_price,total_amount,customer_email
+2024-01-15,Laptop,Electronics,0,15000000.0,30000000.0,an@email.com
+2024-01-17,Laptop,Electronics,0,15000000.0,15000000.0,em@email.com
